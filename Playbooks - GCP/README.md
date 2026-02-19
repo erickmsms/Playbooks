@@ -56,13 +56,6 @@ Automação para deploy de **pipelines de ingestão (camada Bronze)**.
   - Builda e faz push da imagem Docker
   - Cria ou atualiza o Cloud Run Job
 
-**Como usar:**
-```bash
-cd "Script Deploy Bronze"
-# Ajuste as variáveis no script (PROJECT_ID, REGION, etc.)
-./deploybronze.sh
-```
-
 ### 🔹 `Script Deploy DBT/`
 Automação para deploy de **pipelines de transformação com DBT**.
 
