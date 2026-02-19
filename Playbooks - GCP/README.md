@@ -1,4 +1,3 @@
-```markdown
 # Playbooks - GCP
 
 Este diretório contém guias práticos, scripts de automação e documentação técnica para implementação de pipelines de dados no Google Cloud Platform (GCP), com foco em **ingestão**, **transformação** e **estimativa de custos**.
