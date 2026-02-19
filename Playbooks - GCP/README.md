@@ -73,13 +73,6 @@ Automação para deploy de **pipelines de transformação com DBT**.
 - `profiles.yml`: Configuração de conexão com BigQuery
 - `deploydbt.sh`: Script de deploy similar ao anterior, mas específico para DBT
 
-**Como usar:**
-```bash
-cd "Script Deploy DBT"
-# Ajuste as variáveis no script (PROJECT_ID, REGION, IMAGE_NAME, etc.)
-./deploydbt.sh
-```
-
 ---
 
 ## 🚀 Como começar
