@@ -1,0 +1,1 @@
+basicamente rode o deeploy e ajeite o docker file. lembre-se de trocar as fontes no deploy.sh e no dockerfile o nome do arquivo.

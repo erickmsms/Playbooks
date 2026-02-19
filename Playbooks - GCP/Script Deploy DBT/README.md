@@ -1,0 +1,1 @@
+basicamente rode o deploy e ajeite o docker file. lembre-se de trocar as fontes no deploy.sh, no entrypoint.sh, no Dockerfile e no dockerfile o nome do arquivo a ser rodado.
